@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/4340/trunk/fhem/contrib/PRESENCE
+END
+presenced
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/fhem/code/!svn/ver/4022/trunk/fhem/contrib/PRESENCE/presenced
+END
+collectord
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/fhem/code/!svn/ver/4339/trunk/fhem/contrib/PRESENCE/collectord
+END

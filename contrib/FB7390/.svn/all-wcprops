@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/4900/trunk/fhem/contrib/FB7390
+END
+makeimage
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/fhem/code/!svn/ver/3941/trunk/fhem/contrib/FB7390/makeimage
+END
+startfhemDemo
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/fhem/code/!svn/ver/3941/trunk/fhem/contrib/FB7390/startfhemDemo
+END
+startfhemAsRoot
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/fhem/code/!svn/ver/2683/trunk/fhem/contrib/FB7390/startfhemAsRoot
+END
+install
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/4900/trunk/fhem/contrib/FB7390/install
+END
+cleanAVMperl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/fhem/code/!svn/ver/1600/trunk/fhem/contrib/FB7390/cleanAVMperl
+END
+fhemcmd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/fhem/code/!svn/ver/930/trunk/fhem/contrib/FB7390/fhemcmd.sh
+END
+startfhem
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/fhem/code/!svn/ver/2390/trunk/fhem/contrib/FB7390/startfhem
+END
+backup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/fhem/code/!svn/ver/3941/trunk/fhem/contrib/FB7390/backup.sh
+END

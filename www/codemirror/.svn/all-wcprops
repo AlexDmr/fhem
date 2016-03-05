@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/5143/trunk/fhem/www/codemirror
+END
+closebrackets.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/fhem/code/!svn/ver/5143/trunk/fhem/www/codemirror/closebrackets.js
+END
+codemirror.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/fhem/code/!svn/ver/5143/trunk/fhem/www/codemirror/codemirror.js
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/5131/trunk/fhem/www/codemirror/LICENSE
+END
+css.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/5143/trunk/fhem/www/codemirror/css.js
+END
+matchbrackets.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/fhem/code/!svn/ver/5143/trunk/fhem/www/codemirror/matchbrackets.js
+END
+show-hint.css
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/fhem/code/!svn/ver/5143/trunk/fhem/www/codemirror/show-hint.css
+END
+01_FHEMWEB.pm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/fhem/code/!svn/ver/5140/trunk/fhem/www/codemirror/01_FHEMWEB.pm
+END
+fhem.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/5143/trunk/fhem/www/codemirror/fhem.js
+END
+blackboard.css
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/fhem/code/!svn/ver/5143/trunk/fhem/www/codemirror/blackboard.css
+END
+show-hint.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/fhem/code/!svn/ver/5143/trunk/fhem/www/codemirror/show-hint.js
+END
+xml.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/5143/trunk/fhem/www/codemirror/xml.js
+END
+codemirror.css
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/fhem/code/!svn/ver/5143/trunk/fhem/www/codemirror/codemirror.css
+END
+perl.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/5143/trunk/fhem/www/codemirror/perl.js
+END

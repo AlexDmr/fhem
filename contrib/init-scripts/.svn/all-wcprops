@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/2577/trunk/fhem/contrib/init-scripts
+END
+fhem.2
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/fhem/code/!svn/ver/2027/trunk/fhem/contrib/init-scripts/fhem.2
+END
+fhem.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/fhem/code/!svn/ver/2027/trunk/fhem/contrib/init-scripts/fhem.3
+END
+fhem.upstart
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/fhem/code/!svn/ver/2027/trunk/fhem/contrib/init-scripts/fhem.upstart
+END
+fhem.4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/fhem/code/!svn/ver/2577/trunk/fhem/contrib/init-scripts/fhem.4
+END
+fhem.1
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/fhem/code/!svn/ver/710/trunk/fhem/contrib/init-scripts/fhem.1
+END

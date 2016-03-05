@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/fhem/code/!svn/ver/3481/trunk/fhem/contrib/dblog
+END
+db_create_sqlite.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/fhem/code/!svn/ver/3481/trunk/fhem/contrib/dblog/db_create_sqlite.sql
+END
+db.conf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/3481/trunk/fhem/contrib/dblog/db.conf
+END
+db_create_postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/fhem/code/!svn/ver/3481/trunk/fhem/contrib/dblog/db_create_postgresql.sql
+END
+db_create_mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/fhem/code/!svn/ver/3481/trunk/fhem/contrib/dblog/db_create_mysql.sql
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/3481/trunk/fhem/contrib/dblog/README
+END
+fhemdb_get.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/fhem/code/!svn/ver/3481/trunk/fhem/contrib/dblog/fhemdb_get.pl
+END

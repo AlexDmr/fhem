@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/fhem/code/!svn/ver/5033/trunk/fhem/www/gplot
+END
+SM_Network_eth0t.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/fhem/code/!svn/ver/4645/trunk/fhem/www/gplot/SM_Network_eth0t.gplot
+END
+speedtest.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/fhem/code/!svn/ver/3326/trunk/fhem/www/gplot/speedtest.gplot
+END
+temp4rain10.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/temp4rain10.gplot
+END
+power8top10.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/power8top10.gplot
+END
+esa2000.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/fhem/code/!svn/ver/3088/trunk/fhem/www/gplot/esa2000.gplot
+END
+SVG_03_Dewpoint.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/fhem/code/!svn/ver/3938/trunk/fhem/www/gplot/SVG_03_Dewpoint.gplot
+END
+SM_CPUTemp.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/fhem/code/!svn/ver/4645/trunk/fhem/www/gplot/SM_CPUTemp.gplot
+END
+SM_DB_all.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/fhem/code/!svn/ver/4645/trunk/fhem/www/gplot/SM_DB_all.gplot
+END
+rain4press4.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/rain4press4.gplot
+END
+SVG_01_Garden.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/fhem/code/!svn/ver/3938/trunk/fhem/www/gplot/SVG_01_Garden.gplot
+END
+mpiri.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/mpiri.gplot
+END
+ks550_rain.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/ks550_rain.gplot
+END
+km271_1.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/km271_1.gplot
+END
+SM_DB_RAM.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/fhem/code/!svn/ver/4645/trunk/fhem/www/gplot/SM_DB_RAM.gplot
+END
+SM_CPUStatTotal.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/fhem/code/!svn/ver/5033/trunk/fhem/www/gplot/SM_CPUStatTotal.gplot
+END
+temp4hum4.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/temp4hum4.gplot
+END
+bs4.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/bs4.gplot
+END
+ks550_wind.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/ks550_wind.gplot
+END
+temp4hum6.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/temp4hum6.gplot
+END
+cpulog.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/cpulog.gplot
+END
+hum6wind8.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/hum6wind8.gplot
+END
+LUX2.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/2402/trunk/fhem/www/gplot/LUX2.gplot
+END
+wind4windDir4.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/wind4windDir4.gplot
+END
+ks550_light.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/ks550_light.gplot
+END
+ks550_all.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/ks550_all.gplot
+END
+garden.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/garden.gplot
+END
+SM_FS_usb1.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/fhem/code/!svn/ver/4645/trunk/fhem/www/gplot/SM_FS_usb1.gplot
+END
+dayAvgTemp5rain11.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/dayAvgTemp5rain11.gplot
+END
+ks550_th.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/ks550_th.gplot
+END
+piri.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/piri.gplot
+END
+SM_CPUStatSum.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/fhem/code/!svn/ver/4731/trunk/fhem/www/gplot/SM_CPUStatSum.gplot
+END
+SM_Network_eth0.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/fhem/code/!svn/ver/4645/trunk/fhem/www/gplot/SM_Network_eth0.gplot
+END
+SM_DB_CPUFreq.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/fhem/code/!svn/ver/4645/trunk/fhem/www/gplot/SM_DB_CPUFreq.gplot
+END
+sysstat.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/fhem/code/!svn/ver/2656/trunk/fhem/www/gplot/sysstat.gplot
+END
+monthAvgTemp5Rain11.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/monthAvgTemp5Rain11.gplot
+END
+fs20.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/fs20.gplot
+END
+SM_FS_root.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/fhem/code/!svn/ver/4645/trunk/fhem/www/gplot/SM_FS_root.gplot
+END
+template.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/fhem/code/!svn/ver/3131/trunk/fhem/www/gplot/template.gplot
+END
+temp4valve4.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/fhem/code/!svn/ver/2144/trunk/fhem/www/gplot/temp4valve4.gplot
+END
+rain4.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/rain4.gplot
+END
+SM_DB_Network_eth0.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/fhem/code/!svn/ver/4645/trunk/fhem/www/gplot/SM_DB_Network_eth0.gplot
+END
+SM_Load.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/fhem/code/!svn/ver/4645/trunk/fhem/www/gplot/SM_Load.gplot
+END
+SM_RAM.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/4645/trunk/fhem/www/gplot/SM_RAM.gplot
+END
+power4.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/power4.gplot
+END
+fht.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/fht.gplot
+END
+SM_DB_CPUTemp.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/fhem/code/!svn/ver/4645/trunk/fhem/www/gplot/SM_DB_CPUTemp.gplot
+END
+SVG_02_Cellar.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/fhem/code/!svn/ver/3938/trunk/fhem/www/gplot/SVG_02_Cellar.gplot
+END
+SM_CPUStat.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/fhem/code/!svn/ver/4731/trunk/fhem/www/gplot/SM_CPUStat.gplot
+END
+fht80tf.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/fht80tf.gplot
+END
+SM_DB_Load.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/fhem/code/!svn/ver/4645/trunk/fhem/www/gplot/SM_DB_Load.gplot
+END
+power8.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/power8.gplot
+END
+vol4.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/vol4.gplot
+END
+hm-rt.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/4098/trunk/fhem/www/gplot/hm-rt.gplot
+END
+temp4.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/gplot/temp4.gplot
+END
+SM_Network_wlan0.gplot
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/fhem/code/!svn/ver/4645/trunk/fhem/www/gplot/SM_Network_wlan0.gplot
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/4241/trunk/fhem/contrib/YAF/FHEM
+END
+01_YAFWebserver.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/fhem/code/!svn/ver/4151/trunk/fhem/contrib/YAF/FHEM/01_YAFWebserver.pm
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/fhem/code/!svn/ver/3182/trunk/fhem/contrib/YAF/FHEM/.project
+END
+01_YAF.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/fhem/code/!svn/ver/4241/trunk/fhem/contrib/YAF/FHEM/01_YAF.pm
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/fhem/code/!svn/ver/3182/trunk/fhem/contrib/YAF/FHEM/Makefile
+END
+fhem.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/fhem/code/!svn/ver/3182/trunk/fhem/contrib/YAF/FHEM/fhem.cfg
+END

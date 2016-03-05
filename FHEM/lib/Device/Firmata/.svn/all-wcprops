@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/fhem/code/!svn/ver/5128/trunk/fhem/FHEM/lib/Device/Firmata
+END
+Platform.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/fhem/code/!svn/ver/5128/trunk/fhem/FHEM/lib/Device/Firmata/Platform.pm
+END
+Error.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/fhem/code/!svn/ver/4064/trunk/fhem/FHEM/lib/Device/Firmata/Error.pm
+END
+Base.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/fhem/code/!svn/ver/4064/trunk/fhem/FHEM/lib/Device/Firmata/Base.pm
+END
+Constants.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/fhem/code/!svn/ver/5128/trunk/fhem/FHEM/lib/Device/Firmata/Constants.pm
+END
+Protocol.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/fhem/code/!svn/ver/5128/trunk/fhem/FHEM/lib/Device/Firmata/Protocol.pm
+END
+Language.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/fhem/code/!svn/ver/4064/trunk/fhem/FHEM/lib/Device/Firmata/Language.pm
+END

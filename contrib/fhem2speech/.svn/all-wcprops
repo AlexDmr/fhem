@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/329/trunk/fhem/contrib/fhem2speech
+END
+README.fhem-speech
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/fhem/code/!svn/ver/329/trunk/fhem/contrib/fhem2speech/README.fhem-speech
+END
+extensions.conf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/fhem/code/!svn/ver/329/trunk/fhem/contrib/fhem2speech/extensions.conf
+END
+fhem-speech.agi
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/fhem/code/!svn/ver/329/trunk/fhem/contrib/fhem2speech/fhem-speech.agi
+END
+fhem-speech
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/fhem/code/!svn/ver/329/trunk/fhem/contrib/fhem2speech/fhem-speech
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/fhem/code/!svn/ver/329/trunk/fhem/contrib/fhem2speech/ChangeLog
+END
+JSON-XS-2.231.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/fhem/code/!svn/ver/329/trunk/fhem/contrib/fhem2speech/JSON-XS-2.231.tar.gz
+END

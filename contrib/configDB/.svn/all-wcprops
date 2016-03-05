@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/5101/trunk/fhem/contrib/configDB
+END
+configDB.conf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/fhem/code/!svn/ver/5101/trunk/fhem/contrib/configDB/configDB.conf
+END
+configDB.db
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/fhem/code/!svn/ver/5101/trunk/fhem/contrib/configDB/configDB.db
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/fhem/code/!svn/ver/5101/trunk/fhem/contrib/configDB/README
+END

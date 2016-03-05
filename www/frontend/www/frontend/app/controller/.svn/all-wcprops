@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/fhem/code/!svn/ver/5224/trunk/fhem/www/frontend/www/frontend/app/controller
+END
+TableDataController.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/fhem/code/!svn/ver/3367/trunk/fhem/www/frontend/www/frontend/app/controller/TableDataController.js
+END
+ChartController.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/fhem/code/!svn/ver/5224/trunk/fhem/www/frontend/www/frontend/app/controller/ChartController.js
+END
+StatusController.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/fhem/code/!svn/ver/4630/trunk/fhem/www/frontend/www/frontend/app/controller/StatusController.js
+END
+MainController.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/fhem/code/!svn/ver/4633/trunk/fhem/www/frontend/www/frontend/app/controller/MainController.js
+END

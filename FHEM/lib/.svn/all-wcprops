@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/fhem/code/!svn/ver/5128/trunk/fhem/FHEM/lib
+END
+README.perl-firmata
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/fhem/code/!svn/ver/2596/trunk/fhem/FHEM/lib/README.perl-firmata
+END
+LiquidCrystal_I2C.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/fhem/code/!svn/ver/2871/trunk/fhem/FHEM/lib/LiquidCrystal_I2C.pm
+END
+OWNet.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/2745/trunk/fhem/FHEM/lib/OWNet.pm
+END

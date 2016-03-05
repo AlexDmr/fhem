@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/126/trunk/fhem/contrib/voip2fhem
+END
+sip.conf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/fhem/code/!svn/ver/126/trunk/fhem/contrib/voip2fhem/sip.conf
+END
+voip2fhem
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/fhem/code/!svn/ver/126/trunk/fhem/contrib/voip2fhem/voip2fhem
+END
+README.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/fhem/code/!svn/ver/126/trunk/fhem/contrib/voip2fhem/README.html
+END
+HISTORY
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/fhem/code/!svn/ver/126/trunk/fhem/contrib/voip2fhem/HISTORY
+END
+extensions.conf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/fhem/code/!svn/ver/126/trunk/fhem/contrib/voip2fhem/extensions.conf
+END
+CHANGED
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/fhem/code/!svn/ver/126/trunk/fhem/contrib/voip2fhem/CHANGED
+END
+voip2fhem_create_telefonlist
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/fhem/code/!svn/ver/126/trunk/fhem/contrib/voip2fhem/voip2fhem_create_telefonlist
+END
+voip2fhem_create_txt2gsm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/fhem/code/!svn/ver/126/trunk/fhem/contrib/voip2fhem/voip2fhem_create_txt2gsm
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/fhem/code/!svn/ver/126/trunk/fhem/contrib/voip2fhem/README
+END

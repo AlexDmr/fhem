@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/fhem/code/!svn/ver/4124/trunk/fhem/contrib/YAF/FHEM/YAF/libs/json/JSON/backportPP
+END
+Compat5005.pm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/fhem/code/!svn/ver/4124/trunk/fhem/contrib/YAF/FHEM/YAF/libs/json/JSON/backportPP/Compat5005.pm
+END
+Compat5006.pm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/fhem/code/!svn/ver/4124/trunk/fhem/contrib/YAF/FHEM/YAF/libs/json/JSON/backportPP/Compat5006.pm
+END
+Boolean.pm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/fhem/code/!svn/ver/4124/trunk/fhem/contrib/YAF/FHEM/YAF/libs/json/JSON/backportPP/Boolean.pm
+END

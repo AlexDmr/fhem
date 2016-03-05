@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/fhem/code/!svn/ver/660/trunk/fhem/contrib/four2hex
+END
+four2hex.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/fhem/code/!svn/ver/3/trunk/fhem/contrib/four2hex/four2hex.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/3/trunk/fhem/contrib/four2hex/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/3/trunk/fhem/contrib/four2hex/README
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/fhem/code/!svn/ver/3013/trunk/fhem/www/frontend/www/frontend/app/model
+END
+SavedChartsModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/fhem/code/!svn/ver/3013/trunk/fhem/www/frontend/www/frontend/app/model/SavedChartsModel.js
+END
+ReadingsModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/fhem/code/!svn/ver/3013/trunk/fhem/www/frontend/www/frontend/app/model/ReadingsModel.js
+END
+DeviceModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/fhem/code/!svn/ver/3013/trunk/fhem/www/frontend/www/frontend/app/model/DeviceModel.js
+END
+ChartModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/fhem/code/!svn/ver/3013/trunk/fhem/www/frontend/www/frontend/app/model/ChartModel.js
+END
+TableDataModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/fhem/code/!svn/ver/3013/trunk/fhem/www/frontend/www/frontend/app/model/TableDataModel.js
+END

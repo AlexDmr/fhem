@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather
+END
+na.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/na.png
+END
+thunderstorm.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/thunderstorm.png
+END
+mostly_cloudy_night.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/mostly_cloudy_night.png
+END
+cloudy.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/cloudy.png
+END
+rainsnow.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/rainsnow.png
+END
+chance_of_sleet.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/chance_of_sleet.png
+END
+sunny_night.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/sunny_night.png
+END
+mostly_cloudy.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/mostly_cloudy.png
+END
+scatteredthunderstorms_night.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/scatteredthunderstorms_night.png
+END
+fog.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/fog.png
+END
+sunny.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/sunny.png
+END
+smoke.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/smoke.png
+END
+dust.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/dust.png
+END
+haze_night.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/haze_night.png
+END
+scatteredthunderstorms.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/scatteredthunderstorms.png
+END
+scatteredshowers_night.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/scatteredshowers_night.png
+END
+showers_night.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/showers_night.png
+END
+partlycloudy_night.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/partlycloudy_night.png
+END
+icy.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/icy.png
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/COPYRIGHT
+END
+overcast.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/overcast.png
+END
+clear.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/clear.png
+END
+haze.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/haze.png
+END
+scatteredshowers.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/scatteredshowers.png
+END
+showers.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/showers.png
+END
+partlycloudy.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/partlycloudy.png
+END
+flurries.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/flurries.png
+END
+mostlycloudy_night.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/mostlycloudy_night.png
+END
+snowflurries.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/snowflurries.png
+END
+storm.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/storm.png
+END
+mostlycloudy.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/mostlycloudy.png
+END
+chance_of_rain_night.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/chance_of_rain_night.png
+END
+chance_of_snow.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/chance_of_snow.png
+END
+mist.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/mist.png
+END
+drizzle_night.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/drizzle_night.png
+END
+sleet.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/sleet.png
+END
+chance_of_rain.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/chance_of_rain.png
+END
+chance_of_storm_night.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/chance_of_storm_night.png
+END
+partly_cloudy_night.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/partly_cloudy_night.png
+END
+mostly_sunny.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/mostly_sunny.png
+END
+heavysnow.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/heavysnow.png
+END
+drizzle.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/drizzle.png
+END
+mostly_clear_night.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/mostly_clear_night.png
+END
+heavyrain.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/heavyrain.png
+END
+snow.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/snow.png
+END
+chance_of_storm.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/chance_of_storm.png
+END
+rain.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/rain.png
+END
+partly_cloudy.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/partly_cloudy.png
+END
+windy.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/fhem/code/!svn/ver/1865/trunk/fhem/www/images/default/weather/windy.png
+END

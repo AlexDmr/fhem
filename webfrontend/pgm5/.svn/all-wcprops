@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/2076/trunk/fhem/webfrontend/pgm5
+END
+README-FHEMRENDERER.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/fhem/code/!svn/ver/1180/trunk/fhem/webfrontend/pgm5/README-FHEMRENDERER.txt
+END
+02_FHEMRENDERER.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/fhem/code/!svn/ver/2076/trunk/fhem/webfrontend/pgm5/02_FHEMRENDERER.pm
+END
+fhemweb.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/fhem/code/!svn/ver/1217/trunk/fhem/webfrontend/pgm5/fhemweb.pl
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/fhem/code/!svn/ver/1216/trunk/fhem/webfrontend/pgm5/style.css
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/fhem/code/!svn/ver/1216/trunk/fhem/webfrontend/pgm5/README.txt
+END

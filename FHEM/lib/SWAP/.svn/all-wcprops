@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/fhem/code/!svn/ver/4716/trunk/fhem/FHEM/lib/SWAP
+END
+devices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/fhem/code/!svn/ver/3959/trunk/fhem/FHEM/lib/SWAP/devices.xml
+END
+template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/fhem/code/!svn/ver/3439/trunk/fhem/FHEM/lib/SWAP/template.xml
+END

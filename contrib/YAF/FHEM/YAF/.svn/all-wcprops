@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/4238/trunk/fhem/contrib/YAF/FHEM/YAF
+END
+YAFConfig.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/fhem/code/!svn/ver/4237/trunk/fhem/contrib/YAF/FHEM/YAF/YAFConfig.pm
+END
+YAFWidgets.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/fhem/code/!svn/ver/4237/trunk/fhem/contrib/YAF/FHEM/YAF/YAFWidgets.pm
+END
+YAFApplication.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/fhem/code/!svn/ver/4237/trunk/fhem/contrib/YAF/FHEM/YAF/YAFApplication.pm
+END

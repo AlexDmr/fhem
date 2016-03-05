@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/fhem/code/!svn/ver/4630/trunk/fhem/www/frontend/www/frontend/app/view
+END
+ChartGridPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/fhem/code/!svn/ver/3127/trunk/fhem/www/frontend/www/frontend/app/view/ChartGridPanel.js
+END
+TableDataGridPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/fhem/code/!svn/ver/4473/trunk/fhem/www/frontend/www/frontend/app/view/TableDataGridPanel.js
+END
+LineChartPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/fhem/code/!svn/ver/4545/trunk/fhem/www/frontend/www/frontend/app/view/LineChartPanel.js
+END
+DevicePanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/fhem/code/!svn/ver/3389/trunk/fhem/www/frontend/www/frontend/app/view/DevicePanel.js
+END
+Viewport.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/fhem/code/!svn/ver/4630/trunk/fhem/www/frontend/www/frontend/app/view/Viewport.js
+END
+StatusPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/fhem/code/!svn/ver/4630/trunk/fhem/www/frontend/www/frontend/app/view/StatusPanel.js
+END

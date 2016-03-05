@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/1626/trunk/fhem/contrib/nagios
+END
+check_fhem_sensor_battery.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/fhem/code/!svn/ver/1626/trunk/fhem/contrib/nagios/check_fhem_sensor_battery.sh
+END

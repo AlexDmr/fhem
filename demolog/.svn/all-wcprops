@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/fhem/code/!svn/ver/4976/trunk/fhem/demolog
+END
+garden.log
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/3938/trunk/fhem/demolog/garden.log
+END
+cellar.log
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/3938/trunk/fhem/demolog/cellar.log
+END
+eventTypes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/4976/trunk/fhem/demolog/eventTypes.txt
+END
+LightScenes.save
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/fhem/code/!svn/ver/3938/trunk/fhem/demolog/LightScenes.save
+END
+dewpoint.log
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/3938/trunk/fhem/demolog/dewpoint.log
+END
+LightScenes.dd.save
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/fhem/code/!svn/ver/3938/trunk/fhem/demolog/LightScenes.dd.save
+END
+fhem.save
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/4976/trunk/fhem/demolog/fhem.save
+END

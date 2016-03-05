@@ -1,0 +1,14 @@
+K 14
+svn:executable
+V 1
+*
+K 12
+svn:keywords
+V 2
+Id
+K 13
+svn:mergeinfo
+V 107
+/branches/testing/fhem/FHEM/01_FHEMWEB.pm:1597-1727
+/branches/testing/fhem/www/pgm2/01_FHEMWEB.pm:1599-1729
+END

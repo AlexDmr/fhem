@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/fhem/code/!svn/ver/950/trunk/fhem/contrib/JeeStuff
+END
+FHEM_JSN_RoomNode.pde
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/fhem/code/!svn/ver/950/trunk/fhem/contrib/JeeStuff/FHEM_JSN_RoomNode.pde
+END
+FHEM_JSN_LUX.pde
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/fhem/code/!svn/ver/950/trunk/fhem/contrib/JeeStuff/FHEM_JSN_LUX.pde
+END
+00_JeeLink.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/fhem/code/!svn/ver/950/trunk/fhem/contrib/JeeStuff/00_JeeLink.pm
+END
+FHEM_JSN_BMP85.pde
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/fhem/code/!svn/ver/950/trunk/fhem/contrib/JeeStuff/FHEM_JSN_BMP85.pde
+END
+18_JSN.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/fhem/code/!svn/ver/950/trunk/fhem/contrib/JeeStuff/18_JSN.pm
+END
+18_JME.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/fhem/code/!svn/ver/950/trunk/fhem/contrib/JeeStuff/18_JME.pm
+END

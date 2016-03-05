@@ -1,0 +1,1313 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/p/fhem/code/!svn/ver/5250/trunk/fhem/FHEM
+END
+49_IPCAM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/2626/trunk/fhem/FHEM/49_IPCAM.pm
+END
+95_holiday.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/3602/trunk/fhem/FHEM/95_holiday.pm
+END
+10_CUL_HM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/5246/trunk/fhem/FHEM/10_CUL_HM.pm
+END
+20_FRM_LCD.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/5250/trunk/fhem/FHEM/20_FRM_LCD.pm
+END
+10_EnOcean.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/5249/trunk/fhem/FHEM/10_EnOcean.pm
+END
+20_FRM_PWM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/5226/trunk/fhem/FHEM/20_FRM_PWM.pm
+END
+98_dewpoint.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/5099/trunk/fhem/FHEM/98_dewpoint.pm
+END
+98_dummy.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/4934/trunk/fhem/FHEM/98_dummy.pm
+END
+70_VIERA.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/4493/trunk/fhem/FHEM/70_VIERA.pm
+END
+20_FRM_OUT.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/5226/trunk/fhem/FHEM/20_FRM_OUT.pm
+END
+98_autocreate.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/5015/trunk/fhem/FHEM/98_autocreate.pm
+END
+70_JSONMETER.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/5180/trunk/fhem/FHEM/70_JSONMETER.pm
+END
+51_RPI_GPIO.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/4811/trunk/fhem/FHEM/51_RPI_GPIO.pm
+END
+82_M232Voltage.pm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/3830/trunk/fhem/FHEM/82_M232Voltage.pm
+END
+70_USBWX.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/3011/trunk/fhem/FHEM/70_USBWX.pm
+END
+00_MAXLAN.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/4512/trunk/fhem/FHEM/00_MAXLAN.pm
+END
+20_FRM_RGB.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/5226/trunk/fhem/FHEM/20_FRM_RGB.pm
+END
+98_SVG.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/5076/trunk/fhem/FHEM/98_SVG.pm
+END
+50_WS300.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/3518/trunk/fhem/FHEM/50_WS300.pm
+END
+91_sequence.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/3738/trunk/fhem/FHEM/91_sequence.pm
+END
+10_FRM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/5234/trunk/fhem/FHEM/10_FRM.pm
+END
+19_Revolt.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/3849/trunk/fhem/FHEM/19_Revolt.pm
+END
+10_MAX.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/4779/trunk/fhem/FHEM/10_MAX.pm
+END
+10_FBDECT.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/4322/trunk/fhem/FHEM/10_FBDECT.pm
+END
+23_ALL4027.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/2076/trunk/fhem/FHEM/23_ALL4027.pm
+END
+22_ALL3076.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/2076/trunk/fhem/FHEM/22_ALL3076.pm
+END
+42_SYSMON.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/5203/trunk/fhem/FHEM/42_SYSMON.pm
+END
+11_FHT8V.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/5002/trunk/fhem/FHEM/11_FHT8V.pm
+END
+75_MSG.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/2099/trunk/fhem/FHEM/75_MSG.pm
+END
+16_CUL_RFR.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/3738/trunk/fhem/FHEM/16_CUL_RFR.pm
+END
+02_RSS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/4431/trunk/fhem/FHEM/02_RSS.pm
+END
+98_rain.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/fhem/code/!svn/ver/4636/trunk/fhem/FHEM/98_rain.pm
+END
+30_ENECSYSGW.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/5117/trunk/fhem/FHEM/30_ENECSYSGW.pm
+END
+98_WeekdayTimer.pm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/fhem/code/!svn/ver/5241/trunk/fhem/FHEM/98_WeekdayTimer.pm
+END
+10_OWServer.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/4950/trunk/fhem/FHEM/10_OWServer.pm
+END
+10_IT.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/fhem/code/!svn/ver/3582/trunk/fhem/FHEM/10_IT.pm
+END
+09_BS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/fhem/code/!svn/ver/3830/trunk/fhem/FHEM/09_BS.pm
+END
+71_YAMAHA_BD.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/5114/trunk/fhem/FHEM/71_YAMAHA_BD.pm
+END
+70_ONKYO_AVR.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/5072/trunk/fhem/FHEM/70_ONKYO_AVR.pm
+END
+33_readingsGroup.pm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/fhem/code/!svn/ver/5067/trunk/fhem/FHEM/33_readingsGroup.pm
+END
+Color.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/fhem/code/!svn/ver/4752/trunk/fhem/FHEM/Color.pm
+END
+91_eventTypes.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/4000/trunk/fhem/FHEM/91_eventTypes.pm
+END
+34_SWAP.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/fhem/code/!svn/ver/4624/trunk/fhem/FHEM/34_SWAP.pm
+END
+38_netatmo.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/5223/trunk/fhem/FHEM/38_netatmo.pm
+END
+20_FRM_I2C.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/5226/trunk/fhem/FHEM/20_FRM_I2C.pm
+END
+64_ESA2000.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/3778/trunk/fhem/FHEM/64_ESA2000.pm
+END
+57_Calendar.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/4859/trunk/fhem/FHEM/57_Calendar.pm
+END
+43_RFXX10REC.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/2076/trunk/fhem/FHEM/43_RFXX10REC.pm
+END
+00_ZWDongle.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/4751/trunk/fhem/FHEM/00_ZWDongle.pm
+END
+TcpServerUtils.pm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/4719/trunk/fhem/FHEM/TcpServerUtils.pm
+END
+32_withings.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/4937/trunk/fhem/FHEM/32_withings.pm
+END
+98_notice.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/2647/trunk/fhem/FHEM/98_notice.pm
+END
+14_CUL_TX.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/4229/trunk/fhem/FHEM/14_CUL_TX.pm
+END
+88_WEBCOUNT.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/2076/trunk/fhem/FHEM/88_WEBCOUNT.pm
+END
+ONKYOdb.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/fhem/code/!svn/ver/4504/trunk/fhem/FHEM/ONKYOdb.pm
+END
+88_VantagePro2.pm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/2076/trunk/fhem/FHEM/88_VantagePro2.pm
+END
+98_JsonList2.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/5177/trunk/fhem/FHEM/98_JsonList2.pm
+END
+51_I2C_BMP180.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/4946/trunk/fhem/FHEM/51_I2C_BMP180.pm
+END
+21_OWLCD.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/4987/trunk/fhem/FHEM/21_OWLCD.pm
+END
+98_telnet.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/4844/trunk/fhem/FHEM/98_telnet.pm
+END
+32_SYSSTAT.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/4961/trunk/fhem/FHEM/32_SYSSTAT.pm
+END
+71_YAMAHA_AVR.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/5083/trunk/fhem/FHEM/71_YAMAHA_AVR.pm
+END
+98_CULflash.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/3738/trunk/fhem/FHEM/98_CULflash.pm
+END
+00_TCM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/5040/trunk/fhem/FHEM/00_TCM.pm
+END
+00_CUL.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/5213/trunk/fhem/FHEM/00_CUL.pm
+END
+36_LaCrosse.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/5046/trunk/fhem/FHEM/36_LaCrosse.pm
+END
+17_SIS_PMS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/2076/trunk/fhem/FHEM/17_SIS_PMS.pm
+END
+82_LGTV.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/fhem/code/!svn/ver/2076/trunk/fhem/FHEM/82_LGTV.pm
+END
+55_GDS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/5059/trunk/fhem/FHEM/55_GDS.pm
+END
+20_FRM_STEPPER.pm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/5226/trunk/fhem/FHEM/20_FRM_STEPPER.pm
+END
+35_SWAP_0000002200000003.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/fhem/code/!svn/ver/4756/trunk/fhem/FHEM/35_SWAP_0000002200000003.pm
+END
+20_GUEST.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/5176/trunk/fhem/FHEM/20_GUEST.pm
+END
+00_LIRC.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/fhem/code/!svn/ver/3738/trunk/fhem/FHEM/00_LIRC.pm
+END
+99_SUNRISE_EL.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/4537/trunk/fhem/FHEM/99_SUNRISE_EL.pm
+END
+95_PachLog.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/3738/trunk/fhem/FHEM/95_PachLog.pm
+END
+98_cmdalias.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/4087/trunk/fhem/FHEM/98_cmdalias.pm
+END
+41_OREGON.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/2076/trunk/fhem/FHEM/41_OREGON.pm
+END
+98_Heating_Control.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/fhem/code/!svn/ver/5241/trunk/fhem/FHEM/98_Heating_Control.pm
+END
+70_XBMC.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/fhem/code/!svn/ver/4670/trunk/fhem/FHEM/70_XBMC.pm
+END
+98_HTTPMOD.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/4944/trunk/fhem/FHEM/98_HTTPMOD.pm
+END
+55_PIFACE.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/4802/trunk/fhem/FHEM/55_PIFACE.pm
+END
+98_HMinfo.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/5240/trunk/fhem/FHEM/98_HMinfo.pm
+END
+00_FBAHA.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/4962/trunk/fhem/FHEM/00_FBAHA.pm
+END
+70_SML.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/4554/trunk/fhem/FHEM/70_SML.pm
+END
+93_DbLog.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/5163/trunk/fhem/FHEM/93_DbLog.pm
+END
+76_MSGMail.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/2099/trunk/fhem/FHEM/76_MSGMail.pm
+END
+23_WEBIO_12DIGITAL.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/fhem/code/!svn/ver/2076/trunk/fhem/FHEM/23_WEBIO_12DIGITAL.pm
+END
+20_FRM_IN.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/5234/trunk/fhem/FHEM/20_FRM_IN.pm
+END
+00_OWX.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/5226/trunk/fhem/FHEM/00_OWX.pm
+END
+90_at.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/fhem/code/!svn/ver/5179/trunk/fhem/FHEM/90_at.pm
+END
+93_FHEM2FHEM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/5239/trunk/fhem/FHEM/93_FHEM2FHEM.pm
+END
+10_CUL_IR.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/3580/trunk/fhem/FHEM/10_CUL_IR.pm
+END
+38_CO20.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/fhem/code/!svn/ver/5186/trunk/fhem/FHEM/38_CO20.pm
+END
+98_Text2Speech.pm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/5161/trunk/fhem/FHEM/98_Text2Speech.pm
+END
+18_CUL_HOERMANN.pm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/fhem/code/!svn/ver/3738/trunk/fhem/FHEM/18_CUL_HOERMANN.pm
+END
+98_geodata.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/5089/trunk/fhem/FHEM/98_geodata.pm
+END
+45_TRX.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/3784/trunk/fhem/FHEM/45_TRX.pm
+END
+FritzBoxUtils.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/2691/trunk/fhem/FHEM/FritzBoxUtils.pm
+END
+31_ENECSYSINV.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/5117/trunk/fhem/FHEM/31_ENECSYSINV.pm
+END
+98_average.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/3738/trunk/fhem/FHEM/98_average.pm
+END
+21_OWAD.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/fhem/code/!svn/ver/5035/trunk/fhem/FHEM/21_OWAD.pm
+END
+98_PID.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/4930/trunk/fhem/FHEM/98_PID.pm
+END
+70_EGPM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/fhem/code/!svn/ver/4345/trunk/fhem/FHEM/70_EGPM.pm
+END
+30_HUEBridge.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/5118/trunk/fhem/FHEM/30_HUEBridge.pm
+END
+98_RandomTimer.pm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/4968/trunk/fhem/FHEM/98_RandomTimer.pm
+END
+21_OWMULTI.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/5035/trunk/fhem/FHEM/21_OWMULTI.pm
+END
+88_Itach_Relay.pm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/2078/trunk/fhem/FHEM/88_Itach_Relay.pm
+END
+95_Dashboard.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/5247/trunk/fhem/FHEM/95_Dashboard.pm
+END
+32_speedtest.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/4756/trunk/fhem/FHEM/32_speedtest.pm
+END
+21_OWID.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/fhem/code/!svn/ver/5035/trunk/fhem/FHEM/21_OWID.pm
+END
+46_TRX_WEATHER.pm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/4885/trunk/fhem/FHEM/46_TRX_WEATHER.pm
+END
+11_OWDevice.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/4950/trunk/fhem/FHEM/11_OWDevice.pm
+END
+DevIo.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/fhem/code/!svn/ver/5236/trunk/fhem/FHEM/DevIo.pm
+END
+87_WS2000.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/2076/trunk/fhem/FHEM/87_WS2000.pm
+END
+91_watchdog.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/5179/trunk/fhem/FHEM/91_watchdog.pm
+END
+95_FLOORPLAN.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/5051/trunk/fhem/FHEM/95_FLOORPLAN.pm
+END
+95_remotecontrol.pm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/fhem/code/!svn/ver/3502/trunk/fhem/FHEM/95_remotecontrol.pm
+END
+63_EMGZ.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/fhem/code/!svn/ver/3738/trunk/fhem/FHEM/63_EMGZ.pm
+END
+17_EGPM2LAN.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/4378/trunk/fhem/FHEM/17_EGPM2LAN.pm
+END
+98_THRESHOLD.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/4740/trunk/fhem/FHEM/98_THRESHOLD.pm
+END
+98_XmlList.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/2895/trunk/fhem/FHEM/98_XmlList.pm
+END
+46_TRX_LIGHT.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/3996/trunk/fhem/FHEM/46_TRX_LIGHT.pm
+END
+WinService.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/3788/trunk/fhem/FHEM/WinService.pm
+END
+88_LINDY_HDMI_SWITCH.pm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/fhem/code/!svn/ver/4401/trunk/fhem/FHEM/88_LINDY_HDMI_SWITCH.pm
+END
+98_structure.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/5050/trunk/fhem/FHEM/98_structure.pm
+END
+91_notify.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/5179/trunk/fhem/FHEM/91_notify.pm
+END
+51_BBB_BMP180.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/4929/trunk/fhem/FHEM/51_BBB_BMP180.pm
+END
+70_Pushover.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/4653/trunk/fhem/FHEM/70_Pushover.pm
+END
+11_FHT.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/5070/trunk/fhem/FHEM/11_FHT.pm
+END
+20_ROOMMATE.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/5075/trunk/fhem/FHEM/20_ROOMMATE.pm
+END
+32_mailcheck.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/4756/trunk/fhem/FHEM/32_mailcheck.pm
+END
+56_POKEYS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/2099/trunk/fhem/FHEM/56_POKEYS.pm
+END
+23_LUXTRONIK2.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/5210/trunk/fhem/FHEM/23_LUXTRONIK2.pm
+END
+98_JsonList.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/5177/trunk/fhem/FHEM/98_JsonList.pm
+END
+98_backup.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/5173/trunk/fhem/FHEM/98_backup.pm
+END
+61_EMWZ.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/fhem/code/!svn/ver/3738/trunk/fhem/FHEM/61_EMWZ.pm
+END
+70_ENIGMA2.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/5132/trunk/fhem/FHEM/70_ENIGMA2.pm
+END
+20_FRM_AD.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/5226/trunk/fhem/FHEM/20_FRM_AD.pm
+END
+80_M232.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/fhem/code/!svn/ver/3830/trunk/fhem/FHEM/80_M232.pm
+END
+62_EMEM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/fhem/code/!svn/ver/3738/trunk/fhem/FHEM/62_EMEM.pm
+END
+HMConfig.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/5246/trunk/fhem/FHEM/HMConfig.pm
+END
+92_FileLog.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/5068/trunk/fhem/FHEM/92_FileLog.pm
+END
+98_configdb.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/5216/trunk/fhem/FHEM/98_configdb.pm
+END
+70_SCIVT.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/3738/trunk/fhem/FHEM/70_SCIVT.pm
+END
+98_openweathermap.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/fhem/code/!svn/ver/4971/trunk/fhem/FHEM/98_openweathermap.pm
+END
+00_CM11.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/fhem/code/!svn/ver/3830/trunk/fhem/FHEM/00_CM11.pm
+END
+80_xxLG7000.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/2076/trunk/fhem/FHEM/80_xxLG7000.pm
+END
+98_update.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/5173/trunk/fhem/FHEM/98_update.pm
+END
+31_HUEDevice.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/5149/trunk/fhem/FHEM/31_HUEDevice.pm
+END
+21_OWSWITCH.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/5035/trunk/fhem/FHEM/21_OWSWITCH.pm
+END
+24_NetIO230B.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/3738/trunk/fhem/FHEM/24_NetIO230B.pm
+END
+02_HTTPSRV.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/3830/trunk/fhem/FHEM/02_HTTPSRV.pm
+END
+88_ALL4000T.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/2076/trunk/fhem/FHEM/88_ALL4000T.pm
+END
+20_OWFS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/fhem/code/!svn/ver/2516/trunk/fhem/FHEM/20_OWFS.pm
+END
+98_apptime.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/5024/trunk/fhem/FHEM/98_apptime.pm
+END
+98_pilight.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/5057/trunk/fhem/FHEM/98_pilight.pm
+END
+70_STV.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/5209/trunk/fhem/FHEM/70_STV.pm
+END
+73_MPD.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/5013/trunk/fhem/FHEM/73_MPD.pm
+END
+00_HMLAN.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/5246/trunk/fhem/FHEM/00_HMLAN.pm
+END
+10_EIB.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/3604/trunk/fhem/FHEM/10_EIB.pm
+END
+20_FRM_ROTENC.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/5226/trunk/fhem/FHEM/20_FRM_ROTENC.pm
+END
+10_RESIDENTS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/5072/trunk/fhem/FHEM/10_RESIDENTS.pm
+END
+70_SISPM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/2076/trunk/fhem/FHEM/70_SISPM.pm
+END
+72_FB_CALLMONITOR.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/fhem/code/!svn/ver/4984/trunk/fhem/FHEM/72_FB_CALLMONITOR.pm
+END
+20_FRM_SERVO.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/5242/trunk/fhem/FHEM/20_FRM_SERVO.pm
+END
+70_TellStick.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/2099/trunk/fhem/FHEM/70_TellStick.pm
+END
+00_THZ.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/5228/trunk/fhem/FHEM/00_THZ.pm
+END
+09_USF1000.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/3830/trunk/fhem/FHEM/09_USF1000.pm
+END
+15_CUL_EM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/4960/trunk/fhem/FHEM/15_CUL_EM.pm
+END
+20_X10.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/3830/trunk/fhem/FHEM/20_X10.pm
+END
+SetExtensions.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/4508/trunk/fhem/FHEM/SetExtensions.pm
+END
+59_Weather.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/4887/trunk/fhem/FHEM/59_Weather.pm
+END
+21_OWTEMP.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/2516/trunk/fhem/FHEM/21_OWTEMP.pm
+END
+88_IPWE.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/fhem/code/!svn/ver/2076/trunk/fhem/FHEM/88_IPWE.pm
+END
+70_PHTV.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/fhem/code/!svn/ver/5243/trunk/fhem/FHEM/70_PHTV.pm
+END
+Blocking.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/5232/trunk/fhem/FHEM/Blocking.pm
+END
+36_JeeLink.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/4756/trunk/fhem/FHEM/36_JeeLink.pm
+END
+12_HMS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/5097/trunk/fhem/FHEM/12_HMS.pm
+END
+36_PCA301.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/4439/trunk/fhem/FHEM/36_PCA301.pm
+END
+14_CUL_WS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/4229/trunk/fhem/FHEM/14_CUL_WS.pm
+END
+HttpUtils.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/5200/trunk/fhem/FHEM/HttpUtils.pm
+END
+13_KS300.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/5127/trunk/fhem/FHEM/13_KS300.pm
+END
+67_ECMDDevice.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/3412/trunk/fhem/FHEM/67_ECMDDevice.pm
+END
+60_EM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/fhem/code/!svn/ver/3738/trunk/fhem/FHEM/60_EM.pm
+END
+70_WS3600.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/5189/trunk/fhem/FHEM/70_WS3600.pm
+END
+59_Twilight.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/5241/trunk/fhem/FHEM/59_Twilight.pm
+END
+23_WEBIO.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/2076/trunk/fhem/FHEM/23_WEBIO.pm
+END
+10_FS20.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/fhem/code/!svn/ver/5002/trunk/fhem/FHEM/10_FS20.pm
+END
+98_fheminfo.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/4936/trunk/fhem/FHEM/98_fheminfo.pm
+END
+98_weblink.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/3770/trunk/fhem/FHEM/98_weblink.pm
+END
+98_GEOFANCY.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/5086/trunk/fhem/FHEM/98_GEOFANCY.pm
+END
+73_PRESENCE.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/5198/trunk/fhem/FHEM/73_PRESENCE.pm
+END
+46_TRX_SECURITY.pm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/fhem/code/!svn/ver/3918/trunk/fhem/FHEM/46_TRX_SECURITY.pm
+END
+01_FHEMWEB.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/5233/trunk/fhem/FHEM/01_FHEMWEB.pm
+END
+23_WEBTHERM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/4793/trunk/fhem/FHEM/23_WEBTHERM.pm
+END
+98_WOL.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/4994/trunk/fhem/FHEM/98_WOL.pm
+END
+99_Utils.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/3595/trunk/fhem/FHEM/99_Utils.pm
+END
+66_ECMD.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/fhem/code/!svn/ver/4426/trunk/fhem/FHEM/66_ECMD.pm
+END
+71_LISTENLIVE.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/5096/trunk/fhem/FHEM/71_LISTENLIVE.pm
+END
+00_FHZ.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/3738/trunk/fhem/FHEM/00_FHZ.pm
+END
+21_OWTHERM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/5035/trunk/fhem/FHEM/21_OWTHERM.pm
+END
+31_LightScene.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/5105/trunk/fhem/FHEM/31_LightScene.pm
+END
+34_panStamp.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/4756/trunk/fhem/FHEM/34_panStamp.pm
+END
+59_WWO.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/4074/trunk/fhem/FHEM/59_WWO.pm
+END
+59_HCS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/4433/trunk/fhem/FHEM/59_HCS.pm
+END
+81_M232Counter.pm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/3830/trunk/fhem/FHEM/81_M232Counter.pm
+END
+09_CUL_FHTTK.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/5207/trunk/fhem/FHEM/09_CUL_FHTTK.pm
+END
+10_ZWave.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/5153/trunk/fhem/FHEM/10_ZWave.pm
+END
+14_CUL_MAX.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/5220/trunk/fhem/FHEM/14_CUL_MAX.pm
+END
+46_TRX_ELSE.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/3774/trunk/fhem/FHEM/46_TRX_ELSE.pm
+END
+MaxCommon.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/4158/trunk/fhem/FHEM/MaxCommon.pm
+END
+00_KM271.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/2411/trunk/fhem/FHEM/00_KM271.pm
+END
+21_OWCOUNT.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/5125/trunk/fhem/FHEM/21_OWCOUNT.pm
+END
+42_RFXMETER.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/2076/trunk/fhem/FHEM/42_RFXMETER.pm
+END
+40_RFXCOM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/fhem/code/!svn/ver/3056/trunk/fhem/FHEM/40_RFXCOM.pm
+END
+76_MSGFile.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/2099/trunk/fhem/FHEM/76_MSGFile.pm
+END
+00_TUL.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/3274/trunk/fhem/FHEM/00_TUL.pm
+END
+33_readingsProxy.pm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/fhem/code/!svn/ver/4671/trunk/fhem/FHEM/33_readingsProxy.pm
+END

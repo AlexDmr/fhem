@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/4716/trunk/fhem/FHEM/lib/SWAP/justme
+END
+panfirmata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/fhem/code/!svn/ver/3439/trunk/fhem/FHEM/lib/SWAP/justme/panfirmata.xml
+END
+rgbdriver.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/fhem/code/!svn/ver/4716/trunk/fhem/FHEM/lib/SWAP/justme/rgbdriver.xml
+END
+epd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/fhem/code/!svn/ver/3984/trunk/fhem/FHEM/lib/SWAP/justme/epd.xml
+END
+streamtest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/fhem/code/!svn/ver/3439/trunk/fhem/FHEM/lib/SWAP/justme/streamtest.xml
+END
+statusmon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/fhem/code/!svn/ver/3577/trunk/fhem/FHEM/lib/SWAP/justme/statusmon.xml
+END

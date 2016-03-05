@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/fhem/code/!svn/ver/1133/trunk/fhem/contrib/HMRPC
+END
+00_HMRPC.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/fhem/code/!svn/ver/1108/trunk/fhem/contrib/HMRPC/00_HMRPC.pm
+END
+import_from_webui.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/fhem/code/!svn/ver/1107/trunk/fhem/contrib/HMRPC/import_from_webui.bsh
+END
+HMRPC.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/fhem/code/!svn/ver/1108/trunk/fhem/contrib/HMRPC/HMRPC.txt
+END
+01_HMDEV.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/fhem/code/!svn/ver/1133/trunk/fhem/contrib/HMRPC/01_HMDEV.pm
+END

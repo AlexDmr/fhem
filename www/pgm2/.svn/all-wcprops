@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/fhem/code/!svn/ver/5151/trunk/fhem/www/pgm2
+END
+darktouchpadstyle.css
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/fhem/code/!svn/ver/4423/trunk/fhem/www/pgm2/darktouchpadstyle.css
+END
+darksmallscreenstyle.css
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/fhem/code/!svn/ver/4891/trunk/fhem/www/pgm2/darksmallscreenstyle.css
+END
+fhemweb_colorpicker.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/fhem/code/!svn/ver/4405/trunk/fhem/www/pgm2/fhemweb_colorpicker.js
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/4891/trunk/fhem/www/pgm2/style.css
+END
+ios7style.css
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/5094/trunk/fhem/www/pgm2/ios7style.css
+END
+ios7touchpadfloorplanstyle.css
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/fhem/code/!svn/ver/4891/trunk/fhem/www/pgm2/ios7touchpadfloorplanstyle.css
+END
+svg_defs.svg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/4275/trunk/fhem/www/pgm2/svg_defs.svg
+END
+dashboard_darkstyle.css
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/fhem/code/!svn/ver/4978/trunk/fhem/www/pgm2/dashboard_darkstyle.css
+END
+ios7svg_defs.svg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/fhem/code/!svn/ver/3487/trunk/fhem/www/pgm2/ios7svg_defs.svg
+END
+fhemweb_textField.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/fhem/code/!svn/ver/5012/trunk/fhem/www/pgm2/fhemweb_textField.js
+END
+fhemweb_multiple.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/fhem/code/!svn/ver/5037/trunk/fhem/www/pgm2/fhemweb_multiple.js
+END
+svg_style.css
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/4891/trunk/fhem/www/pgm2/svg_style.css
+END
+darkfloorplanstyle.css
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/fhem/code/!svn/ver/4891/trunk/fhem/www/pgm2/darkfloorplanstyle.css
+END
+fhemweb_time.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/fhem/code/!svn/ver/3428/trunk/fhem/www/pgm2/fhemweb_time.js
+END
+fhemweb_svg.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/fhem/code/!svn/ver/4605/trunk/fhem/www/pgm2/fhemweb_svg.js
+END
+ios7svg_style.css
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/fhem/code/!svn/ver/4891/trunk/fhem/www/pgm2/ios7svg_style.css
+END
+svg.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/fhem/code/!svn/ver/2002/trunk/fhem/www/pgm2/svg.js
+END
+jquery.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/4423/trunk/fhem/www/pgm2/jquery.min.js
+END
+console.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/4891/trunk/fhem/www/pgm2/console.js
+END
+dashboard_ios7.css
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/fhem/code/!svn/ver/5030/trunk/fhem/www/pgm2/dashboard_ios7.css
+END
+touchpadstyle.css
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/fhem/code/!svn/ver/4891/trunk/fhem/www/pgm2/touchpadstyle.css
+END
+smallscreenstyle.css
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/fhem/code/!svn/ver/5119/trunk/fhem/www/pgm2/smallscreenstyle.css
+END
+ios7touchpadstyle.css
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/fhem/code/!svn/ver/5094/trunk/fhem/www/pgm2/ios7touchpadstyle.css
+END
+ios7smallscreenstyle.css
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/fhem/code/!svn/ver/4891/trunk/fhem/www/pgm2/ios7smallscreenstyle.css
+END
+jquery-ui.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/fhem/code/!svn/ver/4423/trunk/fhem/www/pgm2/jquery-ui.min.js
+END
+brightstyle.css
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/fhem/code/!svn/ver/4891/trunk/fhem/www/pgm2/brightstyle.css
+END
+fhemweb.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/5151/trunk/fhem/www/pgm2/fhemweb.js
+END
+darkstyle.css
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/5069/trunk/fhem/www/pgm2/darkstyle.css
+END
+fhemweb_slider.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/fhem/code/!svn/ver/4262/trunk/fhem/www/pgm2/fhemweb_slider.js
+END
+dashboard_style.css
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/fhem/code/!svn/ver/4978/trunk/fhem/www/pgm2/dashboard_style.css
+END
+ios7smallscreenfloorplanstyle.css
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/fhem/code/!svn/ver/4891/trunk/fhem/www/pgm2/ios7smallscreenfloorplanstyle.css
+END
+darksvg_defs.svg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/fhem/code/!svn/ver/1862/trunk/fhem/www/pgm2/darksvg_defs.svg
+END
+dashboard.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/5113/trunk/fhem/www/pgm2/dashboard.js
+END
+floorplanstyle.css
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/fhem/code/!svn/ver/4891/trunk/fhem/www/pgm2/floorplanstyle.css
+END
+ios7floorplanstyle.css
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/fhem/code/!svn/ver/4891/trunk/fhem/www/pgm2/ios7floorplanstyle.css
+END
+darksvg_style.css
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/fhem/code/!svn/ver/4891/trunk/fhem/www/pgm2/darksvg_style.css
+END
+fhemweb_noArg.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/fhem/code/!svn/ver/3622/trunk/fhem/www/pgm2/fhemweb_noArg.js
+END

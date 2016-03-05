@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/fhem/code/!svn/ver/1743/trunk/fhem/contrib/getstate
+END
+99_getstate.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/fhem/code/!svn/ver/1743/trunk/fhem/contrib/getstate/99_getstate.pm
+END
+README.getstate
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/fhem/code/!svn/ver/711/trunk/fhem/contrib/getstate/README.getstate
+END
+fhem-getstate
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/fhem/code/!svn/ver/325/trunk/fhem/contrib/getstate/fhem-getstate
+END

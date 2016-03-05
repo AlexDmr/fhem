@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/fhem/code/!svn/ver/1697/trunk/fhem/contrib/munin
+END
+fhem_hms100_
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/fhem/code/!svn/ver/1615/trunk/fhem/contrib/munin/fhem_hms100_
+END
+fhem_fht80b_
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/fhem/code/!svn/ver/1697/trunk/fhem/contrib/munin/fhem_fht80b_
+END

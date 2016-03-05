@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/fhem/code/!svn/ver/4742/trunk/fhem/contrib/inputevent
+END
+inputevent.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/fhem/code/!svn/ver/1134/trunk/fhem/contrib/inputevent/inputevent.txt
+END
+sample.conf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/fhem/code/!svn/ver/1134/trunk/fhem/contrib/inputevent/sample.conf
+END
+vdr-plugin-remote.diff
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/fhem/code/!svn/ver/1134/trunk/fhem/contrib/inputevent/vdr-plugin-remote.diff
+END
+89_inputevent.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/fhem/code/!svn/ver/4742/trunk/fhem/contrib/inputevent/89_inputevent.pm
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/fhem/code/!svn/ver/3/trunk/fhem/webfrontend/pgm1/scripts
+END
+hfm_set.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/fhem/code/!svn/ver/3/trunk/fhem/webfrontend/pgm1/scripts/hfm_set.pl
+END
+hfm_get.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/fhem/code/!svn/ver/3/trunk/fhem/webfrontend/pgm1/scripts/hfm_get.pl
+END
+hfm_tc.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/fhem/code/!svn/ver/3/trunk/fhem/webfrontend/pgm1/scripts/hfm_tc.pl
+END

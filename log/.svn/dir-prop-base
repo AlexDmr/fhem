@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 62
+eventTypes.txt
+fhem.save
+fhem-2014-03.log
+fhem-2014-03-03.log
+
+END

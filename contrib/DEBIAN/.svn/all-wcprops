@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/fhem/code/!svn/ver/2379/trunk/fhem/contrib/DEBIAN
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/fhem/code/!svn/ver/2379/trunk/fhem/contrib/DEBIAN/control
+END
+postinst
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/fhem/code/!svn/ver/2379/trunk/fhem/contrib/DEBIAN/postinst
+END
+postrm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/fhem/code/!svn/ver/722/trunk/fhem/contrib/DEBIAN/postrm
+END
+prerm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/fhem/code/!svn/ver/722/trunk/fhem/contrib/DEBIAN/prerm
+END
+conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/fhem/code/!svn/ver/2027/trunk/fhem/contrib/DEBIAN/conffiles
+END

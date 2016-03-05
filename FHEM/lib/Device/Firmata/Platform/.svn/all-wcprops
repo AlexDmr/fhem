@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/fhem/code/!svn/ver/2596/trunk/fhem/FHEM/lib/Device/Firmata/Platform
+END
+Arduino.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/fhem/code/!svn/ver/2596/trunk/fhem/FHEM/lib/Device/Firmata/Platform/Arduino.pm
+END
