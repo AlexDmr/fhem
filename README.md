@@ -1,0 +1,1 @@
+FHEM with websockets enabled
