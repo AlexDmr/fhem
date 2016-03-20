@@ -303,15 +303,25 @@ closeSocket($) {
   CommandDelete(undef, $cl->{NAME});
 }
 
+
+
+
+
+
+
 sub
 sendMessage($%) {
   my ($cl,%msg) = @_;
   Log3 ($cl->{SNAME},5,Dumper(\%msg));
-  syswrite($cl->{CD}, $cl->{hs}->build_frame(%msg)->to_bytes);
+  eval {
+    syswrite($cl->{CD}, $cl->{hs}->build_frame(%msg)->to_bytes);
+  };
+  if($@) {
+    Log3 ($cl->{SNAME},1,"ERROR sendMessage [$@]\n");
+  }
 }
 
 # these are master hash API methods:
-
 sub
 subscribeOpen($$$) {
   my ($hash,$fn,$arg) = @_;
